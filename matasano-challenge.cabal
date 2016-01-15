@@ -23,6 +23,7 @@ library
                      , base16-bytestring
                      , containers
                      , lens
+                     , cipher-aes
   default-language:    Haskell2010
 
 executable matasano-challenge-exe
